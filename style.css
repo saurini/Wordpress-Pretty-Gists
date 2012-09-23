@@ -1,0 +1,5 @@
+#rs-pretty-gists-wrapper .swatch{ width: 9px; height: 9px; display: inline-block; border: 1px solid #666; margin: 0 5px; }
+#rs-pretty-gists-wrapper .swatch.num-color { background-color: #3aa1c9; }
+#rs-pretty-gists-wrapper .swatch.border-color { background-color: #aec7ba; }
+#rs-pretty-gists-wrapper .swatch.bg-color { background-color: #dddddd; }
+#rs-pretty-gists-wrapper .swatch.alt-bg-color { background-color: #f0f0f0; }
